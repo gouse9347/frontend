@@ -1,0 +1,16 @@
+.image1,.image2,.image3,.image4{
+    height: 3cm;
+    width: 5cm;
+    transition-duration: 5s;
+
+}
+.image1:hover{
+    transform: rotate(360deg);}
+.image2:hover{
+    transform: translatex(8cm);}
+.image3:hover{
+    transform: rotate(180deg);}
+.image4:hover{
+    transform: translatex(5cm);}
+
+

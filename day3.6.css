@@ -1,0 +1,15 @@
+.image{
+    height: 200px;
+    width: 200px;
+    transition-duration: 5s;
+    animation-name: MAHESH;
+    animation-duration: 5S;
+    animation-iteration-count: infinite;
+}
+@keyframes MAHESH {
+    50%{
+        height: 100px;
+        width: 100px;
+        float:right;
+    }
+}

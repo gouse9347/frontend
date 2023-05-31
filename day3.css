@@ -1,0 +1,32 @@
+h1{
+    margin-left: 100px;
+    padding: 5cm;
+    background-color:orangered;
+    height: 2cm;
+    width: 4cm;
+    border: dotted 5px;
+    border-style: dashed;
+    border-left-style: dotted;
+    border-right-style: double;
+    border-radius: 5cm;
+    border-top-right-radius: 10cm;
+    border-top-left-radius: 10cm;
+    border-bottom-right-radius: 10cm;
+}
+h2{
+    background-color: orange;
+    padding: 5cm;
+    height: 2cm;
+    width: 4cm;
+    margin-left: 3cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    border: dotted 5px;
+    border-style: dashed;
+    border-left-style: dotted;
+    border-right-style: solid;
+    border-top-right-radius: 10cm;
+    border-top-left-radius: 10cm;
+    border-top-left-radius: 10cm;
+    border-bottom-right-radius: 10cm;
+}

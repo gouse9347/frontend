@@ -1,0 +1,23 @@
+.div1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(16, 37, 77);
+    transition-duration:5s;
+    transition-property: all;
+
+}
+.div1:hover{
+    height: 500px;
+    width: 500px;
+    background-color: chocolate;
+}
+img{
+    height: 200px;
+    width: 200px;
+    transition-duration: 3s;
+}
+img:hover{
+    height: 500px;
+    width: 500px;
+}
+

@@ -1,0 +1,16 @@
+div{
+    height: 150px;
+    width: 150px;
+    margin-top: 5cm;
+    margin-left: 15cm;
+    background-color: cadetblue;
+    transition-duration: 5s;
+}
+div:hover{
+    transform: rotate(360deg);
+    transform: scale(5);
+    transform: translatex(150px);
+   
+
+}
+
